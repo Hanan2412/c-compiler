@@ -1,8 +1,0 @@
-﻿  Parser.c
-  Sematic_Analayzer.c
-C:\Users\hanan\source\repos\Project10\Project10\Sematic_Analayzer.c(9,26): warning C4013: 'malloc' undefined; assuming extern returning int
-  Token.c
-C:\Users\hanan\source\repos\Project10\Project10\Token.c(117,8): warning C4013: 'yylex' undefined; assuming extern returning int
-  win.lex.yy.c
-  Generating Code...
-  Project10.vcxproj -> C:\Users\hanan\source\repos\Project10\Debug\Project10.exe
